@@ -1,3 +1,7 @@
+
+
+
+
 # React Native TODO list
 
 ## ⚠️ WARNING: This app was not tested on IOS ⚠️
@@ -19,7 +23,7 @@
 - Button is styled in a diffent
 - Errors are crystal clear
 
-<img src="../AwesomeProject/assets/app/error.jpg" height="100" width="60" >
+
 
 ## 👉 Features of the app
 
@@ -27,8 +31,13 @@
 - Modal pop-up
 - Two-way binding for cleaning the input after cancel/set value
 
-<img src="../AwesomeProject/assets/app/list.jpg.jpg" height="100" width="60" >
-<img src="../AwesomeProject/assets/app/modal.jpg.jpg" height="100" width="60" >
+<div class="flex-container"><!-- .element: style="display: flex; flex-direction: row; width: 100%; justify-content: center;" -->
+  <img src="./assets/app/list.jpg" height="500" width="300"><!-- .element: style="margin: 10px; padding: 20px;"-->
+<img src="./assets/app/modal.jpg"  height="500" width="300"><!-- .element: style="margin: 10px; padding: 20px;"-->
+</div>
+<hr/>
+
+
 
 ## 🖊️ Features to add:
 
